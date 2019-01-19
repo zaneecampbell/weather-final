@@ -1,0 +1,123 @@
+#html5-svg {
+    &:hover {
+        path {
+            transition: .3s ease;
+            fill:  #e34f26;
+        }
+    }
+}
+
+#css3-svg {
+    &:hover {
+        path {
+            transition: .3s ease;
+            fill: black;
+        }
+    }
+}
+
+#sass-svg {
+    &:hover {
+        path {
+            transition: .3s ease;
+            fill:#c69;
+        }
+    }
+}
+
+#material-ui-svg {
+    &:hover {
+        #material-ui-svg1 {
+            transition: .3s ease;
+            fill: #00b0ff;
+        }
+        #material-ui-svg2 {
+            transition: .3s ease;
+            fill: #0081cb;
+        }
+    }
+}
+
+#js-svg {
+    &:hover {
+        path {
+            transition: .3s ease;
+            fill:#f7df1e;
+        }
+    }
+}
+
+#es6-svg {
+    &:hover {
+        #es6-svg1 {
+            transition: .3s ease;
+            fill: #F26522;
+        }
+        #es6-svg2 {
+            transition: .3s ease;
+            fill: #fff
+        }
+    }
+}
+
+#react-svg {
+    &:hover {
+        path {
+            transition: .3s ease;
+            fill:#61dafb;
+        }
+    }
+}
+
+#redux-svg {
+    &:hover {
+        path {
+            transition: .3s ease;
+            fill:#764abc;
+        }
+    }
+}
+
+#webpack-svg {
+    &:hover {
+        #webpack-svg1{
+            transition: .3s ease;
+            fill: #8ED6FB;
+        }
+        #webpack-svg2{
+            transition: .3s ease;
+            fill: #1C78C0;
+        }
+    }
+}
+
+#react-router-svg {
+    &:hover {
+        #react-router-svg1{
+            transition: .3s ease;
+            fill: #000000;
+        }
+        #react-router-svg2{
+            transition: .3s ease;
+            fill: #D0021B;
+        }
+    }
+}
+
+#git-svg {
+    &:hover {
+        path {
+            transition: .3s ease;
+            fill:#f05032;
+        }
+    }
+}
+
+#github-svg {
+    &:hover {
+        path {
+            transition: .3s ease;
+            fill:black;
+        }
+    }
+}

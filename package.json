@@ -1,7 +1,7 @@
 {
   "name": "portfolio-site-v3",
   "version": "1.0.0",
-  "homepage": "https://zaneecampbell.github.io/portfolio-final/",
+  "homepage": "https://zaneecampbell.github.io/weather-final/",
   "engines": {
     "node": "8.11.1",
     "npm": "5.6.0",
